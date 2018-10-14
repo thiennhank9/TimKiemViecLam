@@ -1,0 +1,84 @@
+.nga-customer-skill{
+    color: #FFFFFF;
+    padding: 20px;
+}
+.nga-custom-seeall{
+    float: right;
+    font-size: 14px;
+    color: #9c9c9c;
+    background-color: transparent;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 20px;
+
+}
+
+.nga-custom-firstseeall{
+    padding-bottom: 20px;
+}
+
+.nga-custom-seeallcompany{
+    float: right;
+    font-size: 14px;
+    color: #9c9c9c;
+    background-color: transparent;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.nga-custom-listcompamy{
+    margin-top: 55px;
+    padding: 20px 25px 20px;
+}
+
+.nga-custom-contact{
+    text-align: center
+}
+.nga-custom-contactnoidung{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#container {
+    width: 500px;
+    margin: auto;
+}
+
+.toggler-custom-nga{
+    position: absolute;
+    top: 0;
+    left: -48px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 48px;
+    /*height: 48px;*/
+    line-height: 30px;
+    text-align: center;
+    /*font-size: 24px;*/
+    color: #333;
+}
+
+.nga-custom-nav-tabs{
+    float:left;
+    border: none;
+    border: 1px solid transparent;
+}
+
+
+ .nga-custom-nav-tabs li a {
+    padding:12px 15px;
+    border-bottom:0;
+    text-transform:capitalize;
+    color:#9c9c9c;
+    margin-left: 2px;
+}
+
+.tab-manu .nga-custom-nav-tabs li a:hover,
+.tab-manu .nga-custom-nav-tabs li a:focus,
+.tab-manu .nga-custom-nav-tabs li.active a {
+    border:1px solid #f2f2f2;
+    background-color: #fcfcfc;
+    border-bottom: #f2f2f2;
+    border-radius: 0;
+    color: #00a651;
+}

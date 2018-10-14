@@ -1,0 +1,133 @@
+
+.description-margin-top {
+    margin-top: 15px;
+}
+
+.no-margin-left {
+    margin-left: 0px!important;
+}
+
+.no-padding {
+    /*padding-top: 0px !important;*/
+    /*padding-left: 0px !;*/
+    /*padding-right: 0px;*/
+    /*padding-bottom: 0px;*/
+    padding: 0px 0px 0px 0px !important;;
+}
+
+.no-padding-left {
+    padding-left: 0px !important;
+}
+
+.no-padding-right {
+    padding-right: 0px !important;
+}
+
+.no-padding-top {
+    padding-top: 0px !important;
+}
+
+.no-padding-bottom {
+    padding-bottom: 0px !important;
+}
+
+.job-list-description {
+    width: 100%;
+    margin-top: 5px;
+    padding-right: 10px !important;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.fix-width {
+    width: 100%!important;
+}
+
+.job-ad-item .row {
+    margin-left: 0px !important;;
+    margin-right: 0px !important;
+}
+
+/*Chip skill*/
+.ilabel {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    margin: 0 10px 0 0;
+    /*padding: 4px 5px;*/
+    background: transparent;
+    border: 1px solid #D2D3D3;
+    color: #575656;
+    /*font-size: 12px;*/
+    font-weight: normal;
+    text-decoration: none;
+    line-height: 100%;
+    display: inline-block;
+    font-size: 16px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.ilabel:hover {
+    border-color: #00a651;
+    cursor: pointer;
+}
+
+.job-bg-style {
+    background-image: url(../images/background/job-list-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.banner-job-style {
+    background-image: url(../images/background/job-list-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    padding: 65px 0 75px;
+}
+
+.list-style {
+    list-style-type: disc;
+    font-size: 16px !important;
+    padding-left: 50px;
+}
+
+.company-detail-list-style {
+    padding-left: 50px!important;
+}
+
+.header-bold-style {
+    font-weight: bold !important;
+    font-size: 24px !important;
+}
+
+.content-font-size {
+    font-size: 16px !important;
+}
+
+.benefits {
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+.company-info-title-style {
+    font-weight: bold!important;
+}
+
+.post-your-resume {
+    background-image: url(../images/background/1.jpg);
+    padding: 40px 0 60px;
+}
+
+.margin-register-account {
+    margin-top: 20px;
+}
+
+.profile-avatar {
+    width: 72px;
+    height: 72px;
+}
